@@ -2,7 +2,6 @@
 
 A real-time battery monitoring and thermal management system that uses AI to predict and prevent thermal runaway in battery packs.
 
-![Dashboard Screenshot](https://www.linkedin.com/posts/charan-parava-b4b164232_automotiveindustry-automotiveai-automotivesoftware-activity-7408840041814405120-ZfZW?utm_source=share&utm_medium=member_desktop&rcm=ACoAADoLM2sB1a4Gq177ipfmR7Doq3zRYQpt3dw)
 
 ## 🚀 Features
 
